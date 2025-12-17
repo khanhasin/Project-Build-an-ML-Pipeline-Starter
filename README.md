@@ -179,3 +179,12 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+######## THE LINKS REQUIRED BY ME ARE HERE:
+
+
+https://wandb.ai/hasin-khan-work-wgu/nyc_airbnb/reports/NYC-Airbnb-Pipeline-Report--VmlldzoxNTQwMzQyNA?accessToken=7vfdmccg0h7vk6korqp9w43af4qdfjvfz5l7pttak3rqj5evgoydg0y4p1hspyth
+
+
+https://github.com/khanhasin/Project-Build-an-ML-Pipeline-Starter/releases
+https://github.com/khanhasin/Project-Build-an-ML-Pipeline-Starter/
